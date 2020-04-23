@@ -1,0 +1,17 @@
+{
+  "name": "NewzeraPractise",
+  "displayName": "NewzeraPractise",
+  "expo": {
+    "name": "NewzeraPractise",
+    "slug": "NewzeraPractise",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
